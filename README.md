@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuliocampos1&label=Profile%20views&color=0e75b6&style=flat" alt="tuliocampos1" /> </p>
 
-- 🌱 Estou atualmente aprendendo **SQL Server, MySQL, T-SQL e PLSQL e Angular Web framework**
-- ✔️ Tenho conhecimento em C#, estrutura ASP.NET Web API e MVC, coleções, UML, ASP.NET, Entity Framework, LINQ, Lambda.
+- 🌱 Estou atualmente aprendendo **SQL Server, MySQL, T-SQL, PLSQL e Angular Web framework**
+- ✔️ Tenho conhecimento em C#, estrutura ASP.NET Web API, MVC, coleções, UML, ASP.NET, Entity Framework, LINQ e Lambda.
 - 💬 I speak english well 
 - 🌽 I love green corn
 - 📫 Meu e-mail para contato **tulio.koca@gmail.com**
