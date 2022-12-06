@@ -16,7 +16,7 @@
 <h3 align="left">Você me encontra aqui também:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tulio-alberto-da-rocha-campos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tulio-alberto-da-rocha-campos/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tulioalbertoc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tulioalbertoc/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Linguagens e ferramentas que tenho conhecimento:</h3>
