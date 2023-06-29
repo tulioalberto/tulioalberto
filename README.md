@@ -1,4 +1,4 @@
-![MasterHead](https://i.im.ge/2022/07/26/FUrfyS.gif)
+
 <h1 align="center">Hi! 👋, My name is Túlio Campos</h1>
 <h3 align="center">Sou um estudante de C# apaixonado por programação</h3>
 
