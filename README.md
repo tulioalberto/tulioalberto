@@ -1,17 +1,26 @@
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
 <h1 align="center">Hi! 👋, My name is Túlio Campos</h1>
-<h3 align="center">Sou um estudante de C# apaixonado por programação</h3>
+<h3 align="center">A passionate backend developer.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHR2dDIwNWh3endmdml6dndsaDVzYjcwd2NkcXZyMmxmanhxbGR6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s5Dz1RLK6r3kJ7vCOV/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuliocampos1&label=Profile%20views&color=0e75b6&style=flat" alt="tuliocampos1" /> </p>
 
-- 🌱 Estou atualmente aprendendo **SQL Server, MySQL, T-SQL, PLSQL, PowerApps e JavaScript**
-- ✔️ Tenho conhecimento em C#, estrutura ASP.NET Web API, MVC, coleções, UML, ASP.NET, Entity Framework, LINQ, Lambda GIT and GitHub.
-- 💬 I speak english well 
-- 🌽 I love green corn
-- 📫 Meu e-mail para contato **tulio.koca@gmail.com**
+-💬 Ask me about .Net C#, JavaScript, Microsoft PowerPlatform and SQL Server.
+
+-🌱 Knowledge about Azure and GitHub.
+
+-✔️ Tenho conhecimento em C#, estrutura ASP.NET Web API, MVC, coleções, UML, ASP.NET, Entity Framework, LINQ and Lambda GIT.
+
+-💬 I speak english well 
+
+-🌽 I love green corn
+
+-📫 Reach me at **tulio.koca@gmail.com**
 
 <h3 align="left">Você me encontra aqui também:</h3>
 <p align="left">
@@ -19,7 +28,5 @@
 
 </p>
 
-<h3 align="left">Linguagens e ferramentas que tenho conhecimento:</h3>
-<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuliocampos1&show_icons=true&locale=en" alt="tuliocampos1" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
