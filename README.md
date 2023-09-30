@@ -10,19 +10,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuliocampos1&label=Profile%20views&color=0e75b6&style=flat" alt="tuliocampos1" /> </p>
 
--💬 Ask me about .Net C#, JavaScript, Microsoft PowerPlatform and SQL Server.
+-💬 Ask me about .Net C#, DDD architecture, JavaScript, Microsoft PowerPlatform and SQL Server.
 
--🌱 Knowledge about Azure and GitHub.
-
--✔️ Tenho conhecimento em C#, estrutura ASP.NET Web API, MVC, coleções, UML, ASP.NET, Entity Framework, LINQ and Lambda GIT.
+-🌱 Knowledge about AzureDevOps and GitHub.
 
 -💬 I speak english well 
 
 -🌽 I love green corn
 
+-✔️ Tenho conhecimento em C#, estrutura ASP.NET Web API, MVC, coleções, UML, Entity Framework, LINQ and Lambda GIT.
+
 -📫 Reach me at **tulio.koca@gmail.com**
 
-<h3 align="left">Você me encontra aqui também:</h3>
+<h3 align="left">You can find me out here:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tulio-alberto-da-rocha-campos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tulio-alberto-da-rocha-campos/" height="30" width="40" /></a>
 
