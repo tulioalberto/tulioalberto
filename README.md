@@ -24,6 +24,8 @@
 
 -📫 Reach me at **tulio.koca@gmail.com**
 
+-▶️ Youtube: https://www.youtube.com/@nerdintech
+
 <h3 align="left">You can find me out here:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tulio-alberto-da-rocha-campos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tulio-alberto-da-rocha-campos/" height="30" width="40" /></a>
